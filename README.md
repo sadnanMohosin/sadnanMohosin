@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sadnan
 - 👀 I’m interested in Data Science,Machine Learning,AI
-- 🌱 I’m currently learning Computer vision, Data governance and Machine learning
+- 🌱 I’m currently learning Computer vision, NLP and Machine learning
 - 💞️ I’m looking to collaborate on Data driven project,machine learning and Data science projects
 - 📫 How to reach me at sadnan.cuet13@gmail.com
 
